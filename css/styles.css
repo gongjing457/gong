@@ -50,6 +50,7 @@
 .col2-3 .parent { padding:55px 80px; }
 .teaser .parent .child { padding-top:10px; }
 #preloader .child { text-align:center; }
+#preloader .child img{display: inline-block;width: 200px;height: 200px;}
 /* vertical centering */
 .parent { display: table }
 .child { display: table-cell; vertical-align: middle; padding:0; }
